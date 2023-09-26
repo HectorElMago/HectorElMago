@@ -1,2 +1,2 @@
 # Perfil de Hector
-Estudiante Ingenieria Civil en Mineria 
+Ingeniero Civil en Minería 
