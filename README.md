@@ -1,6 +1,6 @@
 # Héctor Missene
 
-Bienvenido a mi perfil de GitHub! Soy Héctor, Ingeniero Civil en Minería graduado de la Universidad del Desarrollo (UDD), con un Diploma de Postítulo en Planificación Minera de la Universidad de Chile. Me destaco por ser el mejor de mi promoción y poseo una amplia gama de habilidades en diversas áreas, incluyendo desarrollo de videojuegos, finanzas, inteligencia artificial, y más.
+Bienvenido a mi perfil de GitHub! Soy Héctor, Ingeniero Civil en Minería graduado de la Universidad del Desarrollo (UDD), con un Diploma de Postítulo en Planificación Minera de la Universidad de Chile. Me destaco por poseer una amplia gama de habilidades en diversas áreas, incluyendo desarrollo de videojuegos, finanzas, inteligencia artificial, y más.
 
 ## Educación 🎓
 
