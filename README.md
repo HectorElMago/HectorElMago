@@ -1,4 +1,5 @@
 # Héctor Missene
+Mi Fivver: https://www.fiverr.com/s/akPLa2W
 
 Bienvenido a mi perfil de GitHub! Soy Héctor, Ingeniero Civil en Minería graduado de la Universidad del Desarrollo (UDD), con un Diploma de Postítulo en Planificación Minera de la Universidad de Chile. Me destaco por poseer una amplia gama de habilidades en diversas áreas, incluyendo desarrollo de videojuegos, finanzas, inteligencia artificial, y más.
 
